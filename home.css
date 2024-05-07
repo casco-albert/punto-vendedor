@@ -1,0 +1,48 @@
+
+
+
+.cerrar-sesion{
+    float: right;
+}
+.cerrar-sesion{
+    float: right;
+}
+form{
+    background-color: white;
+    padding: 10px;
+    width: 500px;
+}
+.cerrar-sesion a{
+    background-color: gray;
+    border-radius: 5px;
+    color: lightyellow;
+}
+#box-user{
+    width: 300px; /* Ancho del cuadrado */
+    height: 480px; /* Alto del cuadrado */
+    background-color: #d3e7cf; /* Color de fondo del cuadrado */
+    padding: 50px;
+}
+input{
+    border: solid 0;
+    border-radius: 3px;
+}
+
+.container i{
+    font-size: 48px;
+}
+.container{
+    height: 70px;
+    width: 100px;
+    background: hsl(0, 100%, 99%);
+    margin: 10px;
+}
+.form-group p{
+    font-weight: bold;
+}
+.assert{
+    width: 300px;
+}
+.input[type=submit]{
+    color: rebeccapurple;
+}
